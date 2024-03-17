@@ -16,25 +16,13 @@ The distance of the nanorobot to the target sequence was checked at regular inte
 
 A graphic was created showing the path and route followed by the nanorobot. This graph helps us better understand the nanorobot's movements.
 
-### Road Graph 📈
-
-![Road Graph](examples/nanorobot_road_route.png)
-
 ## Speed Distribution Analysis 🚀
 
 The speed distribution of the nanorobot in different time periods was analyzed and visualized. This analysis helps us understand how the nanorobot's movement speed changes.
 
-### Speed Distribution Graph 📊
-
-![Speed Distribution Graph](examples/nanorobot_speedDistribution.png)
-
 ## Proximity Graph to Target Array 🎯
 
 The proximity of the nanorobot to the target sequence is shown in a time-varying graph. This graph shows how close the nanorobot gets to the target.
-
-### Proximity Graph to Target Array 📉
-
-![Target Sequence Proximity Graph](examples/nanorobotun_hareketi.png)
 
 ## Base Numbers Analysis 🔢
 
