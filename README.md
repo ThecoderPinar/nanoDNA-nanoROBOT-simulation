@@ -55,7 +55,7 @@
 
 <!-- License -->
 <h2 id="license" align="center">📝 License</h2>
-<p align="center">This project is licensed under the MIT License. For more information, review the <a href="LICENSE">LICENSE</a> file.</p>
+<p align="center">This project is licensed under the Apache License 2.0. For more information, review the <a href="LICENSE">LICENSE</a> file.</p>
 
 <!-- References -->
 <h2 align="center">📚 Sources and References</h2>
