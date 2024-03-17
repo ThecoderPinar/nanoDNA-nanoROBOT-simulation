@@ -1,0 +1,5 @@
+Toplam Mesafe: 71.87
+Ortalama Hýz: 0.7186706634108743
+Hedef Dizilimine Mesafe: 11364.307091446537 mevcut sonuçlar
+Nanorobotun Yolu ve Rotasý: analiz_sonuclari.txt dosyasýna bakýnýz
+Hýz Daðýlýmý Analizi: analiz_sonuclari.txt dosyasýna bakýnýz

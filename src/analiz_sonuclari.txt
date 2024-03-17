@@ -1,0 +1,6 @@
+Hedef dizilim bulundu. Baþlangýç indeksi: 11372
+Toplam Mesafe: 75.26
+Ortalama Hýz: 0.7526359781298805
+Hedef diziliminin genomik dizilimdeki konumu: 0.00
+Hedef Dizilimine Mesafe: 3.7499353910388162
+Baz Sayýlarý: {'A': 558709130, 'T': 559459158, 'C': 413634633, 'G': 414017624}
