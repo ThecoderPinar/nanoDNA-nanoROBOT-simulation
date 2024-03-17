@@ -1,6 +1,5 @@
 <!-- Project Title -->
 <h1 align="center">
-   <img src="../images/nanotech.jpg" alt="NanoRobot Image" width="200px"><br>
    NanoDNA-NanoRobot Simulation
 </h1>
 
